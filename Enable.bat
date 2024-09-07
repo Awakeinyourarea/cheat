@@ -2,6 +2,6 @@
 cd %~dp0
 
 cmd /c kdu -prv 1 -dse 0
-timeout /t 1
+timeout /t 5
 cmd /c kdu -prv 1 -dse 6
 timeout /t 1
